@@ -1,0 +1,5 @@
+https://www.virtualbox.org/wiki/Downloads
+
+http://isoredirect.centos.org/centos/7/isos/x86_64/
+
+http://isoredirect.centos.org/centos/8/isos/x86_64/
